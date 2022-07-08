@@ -1,2 +1,6 @@
 Helloo this is GitPractice time
-
+if(a>60){
+console.log("Clear")
+}else{
+console.log("try again")
+}
