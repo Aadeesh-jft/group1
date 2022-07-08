@@ -1,2 +1,5 @@
 newUpdate.txt
+const myFunc = () => {
+  console.log("HElloWorld")
+}
 
